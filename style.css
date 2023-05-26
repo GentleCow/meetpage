@@ -274,7 +274,7 @@ h4 {
     height: 451px;
     background-image: url(./image-footer.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 451px;
     margin: 0px 0px;
     mix-blend-mode: normal;
 }
