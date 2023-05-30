@@ -427,7 +427,7 @@ h4 {
 
     footer {
         background-image: url("./image-footer-desktop.jpg");
-        background-size: auto;
+        background-size: 100%;
     }
 
     .footerbackgroundcolor {
